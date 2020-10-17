@@ -1,0 +1,6 @@
+framework module Pods_TaskDeck_TaskDeckUITests {
+  umbrella header "Pods-TaskDeck-TaskDeckUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

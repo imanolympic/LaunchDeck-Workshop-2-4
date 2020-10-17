@@ -1,0 +1,6 @@
+framework module Pods_TaskDeck {
+  umbrella header "Pods-TaskDeck-umbrella.h"
+
+  export *
+  module * { export * }
+}
