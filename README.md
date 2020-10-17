@@ -8,7 +8,7 @@ Here's a walkthrough of the implemented feautures:
 <img src='https://media.giphy.com/media/MVO3UcIpv6ClOoWBXu/giphy.gif'  title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## The App Feautures:
-- [x] UITableView
-- [x] NavigationController
-- [x] Realm Database
+- [ ] UITableView
+- [ ] NavigationController
+- [ ] Realm Database
 
