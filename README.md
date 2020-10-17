@@ -5,7 +5,7 @@ This is a basic to-do list app that grants users the ability to create, delete, 
 ## Video Walkthrough
 Here's a walkthrough of the implemented feautures:
 
-<img src='https://media.giphy.com/media/WzTrQpE7Je9mCu0gYo/giphy.gif'  title='Video Walkthrough2' width='' alt='Video Walkthrough2' />
+<img src='http://www.giphy.com/gifs/MVO3UcIpv6ClOoWBXu'  title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## The App Feautures:
 - [] UITableView
