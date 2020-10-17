@@ -1,6 +1,6 @@
 # TaskDeck
 
-This is a basic to-do list app that grants users the ability to create, delete, and complete Tasks.
+**TaskDeck** is a basic to-do list app that grants users the ability to create, delete, and complete tasks.
 
 ## Video Walkthrough
 Here's a walkthrough of the implemented feautures:
